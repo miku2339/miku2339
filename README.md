@@ -35,11 +35,16 @@ I build AI agents, macOS companions, and practical tools for everyday work.
 <p><sub>Python · MCP · Docker · Alpha</sub></p>
 </td>
 </tr>
+</table>
+
+## Team projects
+
+<table>
 <tr>
 <td width="50%" valign="top">
-<h3>⌨️ <a href="https://github.com/miku2339/vtc-cli">VTC CLI</a></h3>
-<p>A terminal toolkit for VTC Moodle, MyPortal, and library resources: courses, assignments, and timetables.</p>
-<p><sub>Python · CLI · Unofficial</sub></p>
+<h3>🌿 <a href="https://github.com/miku2339/melo">Melo</a></h3>
+<p>A virtual companion for calmer messages, with guided breathing and AI-assisted rewriting. Built by a Hong Kong–Singapore team.</p>
+<p><sub>React Native · Expo · Team project</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>📄 <a href="https://github.com/miku2339/CareBrief-Public">CareBrief｜睇得明</a></h3>
@@ -48,3 +53,5 @@ I build AI agents, macOS companions, and practical tools for everyday work.
 </td>
 </tr>
 </table>
+
+**More tools:** [VTC CLI](https://github.com/miku2339/vtc-cli) — Moodle, MyPortal, and library resources in your terminal.

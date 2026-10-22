@@ -1,6 +1,6 @@
 ![miku2339 — AI tools, TypeScript and Python, with Hatsune Miku and flowing turquoise twin tails.](assets/header-miku.gif?v=f1a4889db268)
 
-## Hi, I'm Qixi 👋
+## Hi, I'm miku2339 👋
 
 I build AI agents, macOS companions, and practical tools for everyday work.
 

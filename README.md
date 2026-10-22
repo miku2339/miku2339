@@ -13,9 +13,9 @@ I build AI agents, macOS companions, and practical tools for everyday work.
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>💬 <a href="https://github.com/miku2339/dot-social-bridge">Dot × WhatsApp</a></h3>
-<p>Connect ChatGPT Dot to WhatsApp for message events, replies, and media through an OAuth-protected MCP bridge.</p>
-<p><sub>Node.js · MCP Events · Baileys · Unofficial</sub></p>
+<h3>💬 <a href="https://github.com/miku2339/dot-social-bridge">Dot Social Bridge</a></h3>
+<p>Messaging and social-platform bridges for ChatGPT Dot, with WhatsApp and Instagram integrations and more platforms planned.</p>
+<p><sub>Node.js · Python · MCP Events · OAuth</sub></p>
 </td>
 <td width="50%" valign="top">
 <h3>🎵 <a href="https://github.com/miku2339/miku_desktop">Miku Desktop</a></h3>
